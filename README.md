@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Undergraduate student — Computer Engineering
-- 🎯 Goal: PhD in Computer Engineering  
+- 🎓 Undergraduate student — IT ==> AL Hawash private university
+- 🎯 Goal: Phd in software engineering
 - 🌍 From Syria
 - 💪 Fun fact: I am sure that I will achieve my goals!
 
@@ -52,6 +52,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | ⚡ **IronLog** | Gym workout website — browse exercises, build training plans, track progress | Django · React · Tailwind |
+| 🕒 **dayflow** | Daily OS website — Task Manager — Goal Tracker — Calendar with Event — Daily Schedule and Notes  | Django · React · Tailwind |
+
 
 ---
 
