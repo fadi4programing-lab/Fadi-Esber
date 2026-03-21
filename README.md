@@ -10,7 +10,7 @@
 - 🎯 Goal: Phd in software engineering
 - 🌍 From Syria
 - 💪 Fun fact: I am sure that I will achieve my goals!
-
+- 💬 portfolio : https://fadiesper.me
 ---
 
 ## 🛠️ Tech Stack
